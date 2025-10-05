@@ -2,7 +2,7 @@
 
 **Name:** Ashik Mahbub  
 **Email:** ashikmahbub56@gmail.com  
-**Course:** DevOps  
+**Course:** Django + React  
 **Batch:** 6  
 **Assignment:** Module 6 – Project 1 & Project 2  
 **Topic:** Simple Calculator & Number Guessing Game  
@@ -11,36 +11,37 @@
 
 ## 📘 Overview
 
-This assignment includes two Python command-line projects designed to strengthen fundamental programming concepts such as **functions, user input, conditional statements, loops, and error handling**.
+This assignment includes two Python command-line applications designed to strengthen fundamental programming concepts such as **functions, loops, conditional statements, and error handling**.
+
+Both programs are run in the **terminal** and do not require any external libraries.
 
 ---
 
 ## 🧩 Project 1: Simple Calculator
 
 ### 🎯 Objective
-Develop a terminal-based calculator that performs basic arithmetic operations:
+Develop a CLI-based calculator that performs basic arithmetic operations:
 - Addition  
 - Subtraction  
 - Multiplication  
 - Division  
 - Modulus  
 
-### 🧠 Concepts Used
+### 🧠 Key Concepts
 - Functions  
 - Conditional logic (`if`, `elif`, `else`)  
 - User input handling  
 - Exception handling (`try-except`)  
 
-### ⚙️ How It Works
-1. The program displays a menu of operations.  
+### ⚙️ Program Flow
+1. The program displays a list of operations.  
 2. The user selects an operation by entering a choice (1–5).  
-3. The user enters two numeric values.  
-4. The selected operation is performed, and the result is displayed.  
-5. Division by zero and invalid inputs are gracefully handled.
+3. Two numbers are entered as inputs.  
+4. The result of the chosen operation is displayed.  
+5. Division by zero and invalid inputs are properly handled.
 
 ### 🧾 Sample Output
 
----
 
 ## 🎮 Project 2: Number Guessing Game
 
