@@ -43,30 +43,7 @@ Develop a CLI-based calculator that performs basic arithmetic operations:
 ### 🧾 Sample Output
 
 
-## 🎮 Project 2: Number Guessing Game
-
-### 🎯 Objective
-Create an interactive number guessing game where:
-- The computer generates a random number between 1 and 100.  
-- The user attempts to guess the number.  
-- The program provides hints (“Too high” or “Too low”) until the correct number is guessed.  
-
-### 🧠 Concepts Used
-- Random number generation (`random` module)  
-- Loops (`while True`)  
-- Conditional statements  
-- Input validation and error handling  
-
-### ⚙️ How It Works
-1. The program randomly selects a secret number (1–100).  
-2. The user repeatedly guesses the number.  
-3. Feedback is provided after each guess.  
-4. The game ends when the correct number is guessed, showing total attempts.
-
-### 🧾 Sample Output
-
----
-
+ 
 ## 🎮 Project 2: Number Guessing Game
 
 ### 🎯 Objective
